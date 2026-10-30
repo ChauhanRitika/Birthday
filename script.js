@@ -8,7 +8,7 @@ const CONFIG = {
     " It's going to be an year since we met and somewhere along the way you became one of the most special person in my life." + 
     " No matter how much time we spend together, it always feels less. I love everything about you, your presence, your nature, your voice, your smile."+
     " The way you make me feel, the way you understands me, the way you protects me and I am so glad that I met you."+
-    " I have always dreamed of having a partner like you but never imagined that I will really get someone so pure. I love you so much!! Let's spend our life together forever🥰." +
+    " I have always dreamed of having a partner like you but never imagined that I will really get someone so pure. Let's spend our life together forever🥰." +
     " (I am quite bad at expressing, but i have tried my best😂)",
 
   reason1: "Let's explore the world together and make memories that will last a lifetime.🥰",
