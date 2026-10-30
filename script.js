@@ -1,41 +1,32 @@
-/* ==========================================================
-   Birthday site: content + animation helpers
-   ========================================================== */
-
-/* ----------------------------------------------------------
-   1. EDIT YOUR DETAILS HERE
-   ----------------------------------------------------------
-   Everything in this block shows up on the page. Leave a value
-   as it is to keep the placeholder text.
-
-   Photos: put your image files in a folder called "images",
-   then set src, e.g.  src: "images/trip.jpg"
-   Leave src empty ("") to show the flower instead.
----------------------------------------------------------- */
 const CONFIG = {
   friendName: "Utkarsh",
   nickName: "My Love❤️",
-  birthdayDate: "First november",
+  birthdayDate: "01/11/2026",
   yourName: "Ritika",
   message:
-    "A very very Happiee Birthday sweetuu🥳🥳!!",
+    "A very very Happiee Birthday sweetuu🎂🥳!! May this year and all the years to come fill your life with happiness, success, prosperity, and good health."+
+    " It's going to be an year since we met and somewhere along the way you became one of the most special person in my life." + 
+    " No matter how much time we spend together, it always feels less. I love everything about you, your presence, your nature, your voice, your smile."+
+    " The way you make me feel, the way you understands me, the way you protects me and I am so glad that I met you."+
+    " I have always dreamed of having a partner like you but never imagined that I will really get someone so pure. I love you so much!! Let's spend our life together forever🥰." +
+    " (I am quite bad at expressing, but i have tried my best😂)",
 
-  reason1: "[Reason one]",
-  reason2: "[Reason two]",
-  reason3: "[Reason three]",
+  reason1: "Let's explore the world together and make memories that will last a lifetime.🥰",
+  reason2: "We will have two cuties together and will make our own little family.🙈",
+  reason3: "Let's build a life filled with love, laughter, and endless adventures😍 (along with my plants😌).",
 
   photos: [
-    { src: "first.jpeg", label: "Our first Date❤️", caption: "A little weird😂, but memorable🥰" },
+    { src: "first.jpeg", label: "Our first Date❤️", caption: "A little weird😂, but memorable🥰 (Never ordering soup again😂)" },
     { src: "second.jpeg", label: "Completed 6 months together❤️", caption: "We got your PS5😌" },
     { src: "forth.jpeg", label: "Counting more❤️", caption: "We explored ggn together😉" }
   ],
 
   // Football section
-  jerseyName: "Ronaldo",   // short name on the back of the shirt
+  jerseyName: "Utkarsh",   // short name on the back of the shirt
   jerseyNumber: "7",
-  club: "[Club]",
-  position: "[Position]",
-  bestMatch: "[Memory]"
+  club: "Real Madrid",
+  Player: "Cristiano Ronaldo",
+  bestMatch: "2022 Champions League SemiFinal",
 };
 
 /* ----------------------------------------------------------
